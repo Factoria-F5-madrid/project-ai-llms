@@ -1,6 +1,6 @@
 # 🚀 PROYECTO LLMs : GENERADOR DE CONTENIDO
 
-![AI Developer](https://github.com/user-attachments/assets/fb2e482e-bdf6-4449-9285-6f780d2f7dd7)
+![LLMs](https://github.com/user-attachments/assets/f2a3c28d-390a-4666-99d7-60d4c62bccc5)
 
 ## 📜 Briefing: PROYECTO LLMs
 
