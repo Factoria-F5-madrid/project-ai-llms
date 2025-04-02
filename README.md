@@ -115,12 +115,11 @@ relevante de documentos científicos provenientes de arXiv. Se tiene libertad pa
 
 Se considerarán los siguientes criterios:  
 
-✅ **TODO.**  
-✅ **TODO.**  
-✅ **TODO.**  
-✅ **TODO.**  
-✅ **TODO.**  
-✅ **TODO.**  
+Competencia:  Crear un modelo de inteligencia artificial utilizando técnicas y algoritmos de Procesamiento del Lenguaje Natural
+
+✅ Uso de modelos LLM  
+✅ Uso de frameworks para desarrollar aplicaciones de LLMs (LancgChain, CrewAI)  
+ 
 
 Más detalles en: [roadmap-mad-ai-p4.coderf5.es](https://roadmap-mad-ai-p4.coderf5.es/)  
 
